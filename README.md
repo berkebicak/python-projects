@@ -1,3 +1,3 @@
 # python-projects
 Basics
-Some sample projects
+some sample projects
